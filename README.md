@@ -5,4 +5,4 @@ I’m Guillaume Colombel, a freelance interactive developer based in paris, fran
 ✨ [Portfolio](https://www.guillaumecolombel.fr) -
 🐣 [Twitter](https://twitter.com/guicolombel) -
 📷 [Instagram](https://www.instagram.com/guicolombel/) -
-💌 [Mail](mailto:guillaume.colombel@gmail.com) -
+💌 [Mail](mailto:guillaume.colombel@gmail.com)
