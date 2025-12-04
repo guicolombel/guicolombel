@@ -1,7 +1,8 @@
 ### Hi there 👀
 
-I’m Guillaume Colombel, a freelance interactive developer based in Paris, France.  
-Formerly at Locomotive© and makemepulse, I craft refined, motion-driven digital experiences where design, rhythm, and emotion meet code.
+I’m Guillaume Colombel, a freelance interactive developer based in Paris, France.
+I craft refined, motion-driven digital experiences where design, rhythm, and emotion meet code.
+Formerly at Locomotive© and makemepulse.
 
 ✨ [Portfolio](https://www.guillaumecolombel.fr)  
 🐣 [Twitter](https://twitter.com/guicolombel)  
